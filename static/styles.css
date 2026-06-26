@@ -261,7 +261,7 @@ section {
 .project-tag {
     font-family: var(--mono);
     font-size: 10px;
-    color: #888;
+    color: #969696;
     background: #1c1c1c;
     border: 1px solid #2a2a2a;
     padding: 3px 8px;
@@ -291,7 +291,7 @@ section {
 .skill-group-title {
     font-family: var(--mono);
     font-size: 11px;
-    color: #888;
+    color: #969696;
     letter-spacing: 0.1em;
     margin-bottom: 12px;
     text-transform: uppercase;
@@ -356,7 +356,7 @@ section {
 .exp-company {
     font-family: var(--mono);
     font-size: 12px;
-    color: #9696;
+    color: #969696;
     margin-bottom: 8px;
 }
 
@@ -391,7 +391,7 @@ section {
 
 .contact-icon {
     font-size: 18px;
-    color: #888;
+    color: #969696;
     width: 20px;
     text-align: center;
 }
